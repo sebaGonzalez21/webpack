@@ -2,4 +2,5 @@ node_modules
 build
 npm-debug.log
 .env
-.DS_Store
+invie/node_modules
+invie/.DS_Store
