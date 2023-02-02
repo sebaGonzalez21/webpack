@@ -40,7 +40,7 @@
     "style-loader": "0.20.3",
     "url-loader": "1.0.1",
     "webpack": "3.8.1",
-    "webpack-cli": "2.0.13",
+    "webpack-cli": "5.0.1",
     "webpack-dev-server": "2.1.0-beta.0"
   },
   "dependencies": {
